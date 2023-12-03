@@ -1,0 +1,160 @@
+body{ 
+    background-color: black;
+}
+   a{ 
+    text-decoration: none;
+    color: white;
+   } 
+   ul{ 
+    list-style-type: none;
+   }
+   .info{ 
+    color: white;
+   }
+
+.text-home{
+    color: white;
+}
+.lorem-home{
+    color: white;
+}
+.download-epic{
+    height: 40px;
+    width: 150px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 50px;
+    
+}
+.button-a{
+    color: black;
+}
+.Profile-button{
+    background-color:whitesmoke;
+    border: none;
+    border-radius: 50px;
+    height: 40px;
+    width: 150px;
+}
+.Create-Profile-a{
+    color: black;
+}
+.lorem-profle{
+color: white;
+}
+.about-button{
+color: black;
+height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 50px;
+    
+}
+.about-a{
+    color: black;
+
+}
+.h1-about{
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+.lorem-about{
+    color: white;
+}
+.home-h1{
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+.profile-h1{
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+.skills-h1 {
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+.skills-a{
+    color: black;
+}
+
+.skill-button{
+    color: black;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 50px;
+}
+
+.p-skills1{
+    color: white;
+}
+
+.h1-projects1{
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+li{
+    font-size: 20px;
+}
+img{
+    width: 200px;
+}
+p{
+    font-size: 20px;
+}
+.lorem-projects{
+    color: white;
+}
+.project-a{
+color: black;
+}
+.project-button{
+    color: black;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 50px;
+}
+.h1-contact{
+    color: white;
+    font-style: oblique;
+    font-size: 80px;
+}
+.contact-p1phone{
+    color: white;
+}
+.phone-img1phone{
+   width: 17px;
+}
+.lorem-contact1{
+    color: white;
+}
+.contact-a{
+    color: black;
+}
+.contact-button1{
+    color: black;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 50px
+}
+.contact-p2mail{
+    color: white;
+}
+.contact-img2mail{
+    width: 17px;
+}
+
+.rocket-img1{
+ width: 200px;
+}
+
+.f-img1{
+    width: 200px;
+}
